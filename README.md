@@ -66,6 +66,6 @@ https://portfolio-website-two-delta-41.vercel.app/
 
 Thanks for stopping by! 👋
 
-⚡ Fun Fact
+## ⚡ Fun Fact
 
 I’m basically Iron Man — I just build software instead of suits.
