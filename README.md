@@ -40,24 +40,6 @@ I enjoy building things from scratch, learning through real-world projects, and 
 
 ---
 
-## 📌 Featured Project
-
-### 🌐 Portfolio Website
-
-A personal developer portfolio built to showcase my projects, skills, and development journey.
-
-**Tech Stack**
-
-`Next.js` `React` `JavaScript` `Tailwind CSS` `Vercel`
-
-**Repository:**
-https://github.com/abhishekapurva0809/Portfolio-Website
-
-**Live Website:**
-https://portfolio-website-two-delta-41.vercel.app/
-
----
-
 ## 🌱 Currently Exploring
 
 * Data Structures & Algorithms
