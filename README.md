@@ -8,19 +8,7 @@ I enjoy building things from scratch, learning through real-world projects, and 
 
 ---
 
-## 🚀 What I Do
-
-* 💻 Build modern web applications
-* 🧩 Explore new technologies
-* 🛠️ Turn ideas into working projects
-* 📚 Learn through real-world development
-* 🌱 Experiment, build, and improve
-
-> **Building, learning, experimenting, and improving — one project at a time.**
-
----
-
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -40,21 +28,10 @@ I enjoy building things from scratch, learning through real-world projects, and 
 
 ---
 
-## 🌱 Currently Exploring
-
-* Data Structures & Algorithms
-* Full-Stack Development
-* Backend Development
-* Modern JavaScript frameworks
-* Scalable web applications
-* New developer tools and technologies
-
----
-
-
----
-
 ## 🤝 Connect With Me
+
+**Email**
+abhishekapurva09.08@gmail.com
 
 **LinkedIn**
 https://linkedin.com/in/abhishekapurva
